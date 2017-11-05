@@ -8,3 +8,4 @@ Done:
 Todo:
 1. show distance on the UI
 2. draw directions from the startMarker to the endMarker
+3. build up the indoor map with anchor points
